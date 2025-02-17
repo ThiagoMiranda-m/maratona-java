@@ -1,0 +1,1 @@
+Exercicios para o estudo da linguagem Java, do básico até o avançado. Essas aulas foram propostas e publicadas pelo canal no YouTube DevDojo, aonde ele tem uma playlist com um curso de mais de 240 vídeos explicando sobre a linguagem Java e os seus conceitos e aplicações. 
