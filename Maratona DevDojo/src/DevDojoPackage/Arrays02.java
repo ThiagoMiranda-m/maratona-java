@@ -12,6 +12,11 @@ public class Arrays02 {
         for(int i = 0; i < nome.length; i++){
             System.out.println(nome[i]);
         }
+
+        String [] idade = new String[2];
+        idade[0] = "12";
+        idade[1] = "20";
+
     }
     
     
