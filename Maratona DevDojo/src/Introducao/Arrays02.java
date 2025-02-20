@@ -1,4 +1,4 @@
-package DevDojoPackage;
+package Introducao;
 
 public class Arrays02 {
     public static void main(String[] args) {

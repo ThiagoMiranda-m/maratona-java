@@ -1,4 +1,4 @@
-package DevDojoPackage;
+package Introducao;
 
 public class Arrays03 {
     public static void main(String[] args) {
@@ -15,5 +15,7 @@ public class Arrays03 {
             System.out.println(j);
             
         }
+
+        System.out.println(numeros);
     }
 }

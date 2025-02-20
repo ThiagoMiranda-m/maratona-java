@@ -1,4 +1,4 @@
-package DevDojoPackage;
+package Introducao;
 
 public class EstrturaRepeticao03 {
     public static void main(String[] args) {

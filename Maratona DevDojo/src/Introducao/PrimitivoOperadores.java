@@ -1,4 +1,4 @@
-package DevDojoPackage;
+package Introducao;
 
 public class PrimitivoOperadores {
     public static void main(String[] args) {
@@ -19,7 +19,7 @@ public class PrimitivoOperadores {
         boolean isDezMenorQueVinte = 10 < 20;
         boolean isDezIgualVinte = 10 == 20;
         boolean isDezIgualDez = 10 == 20;
-        boolean isDezDiferenteDez = 10 != 10;
+        boolean isDezDiferenteDez = 10 != 12;
         System.out.println(isDezMaiorQueVinte);
         System.out.println(isDezMenorQueVinte);
         System.out.println(isDezIgualVinte);
@@ -62,6 +62,7 @@ public class PrimitivoOperadores {
         contador--;
         ++contador;
         --contador;
+        System.out.println(contador);
         int contador2 = 0;
         System.out.println(++contador2);
     }

@@ -1,4 +1,4 @@
-package DevDojoPackage;
+package Introducao;
 import java.util.Scanner;
 
 public class EstruturasCondicionais02 {
