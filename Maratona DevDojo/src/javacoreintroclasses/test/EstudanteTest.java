@@ -5,7 +5,7 @@ import javacoreintroclasses.dominio.Estudante;
 public class PessoaTest {
     public static void main(String[] args) {
         Estudante estudante = new Estudante();
-        estudante.idade = 15;
+        estudante.idade = 19;
         estudante.sexo = 'M';
         estudante.nome = "Thiago";
 
